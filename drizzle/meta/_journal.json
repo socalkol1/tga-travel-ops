@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1776218315578,
+      "tag": "0000_fluffy_nightmare",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1776218315579,
+      "tag": "0001_guarded_enrollments",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1776808000000,
+      "tag": "0002_documenso_signing",
+      "breakpoints": true
+    }
+  ]
+}
